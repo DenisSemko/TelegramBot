@@ -41,6 +41,8 @@ Project is: _no longer being worked on_.
 ## Contact
 Created by [@dench327](https://linkedin.com/in/https://www.linkedin.com/in/denis-semko-551b91191) - feel free to contact me!
 
+(c) 2020
+
 
 ## License
 > You can check out the full license [here](https://github.com/DenisSemko/TelegramBot/blob/master/LICENSE.md)
